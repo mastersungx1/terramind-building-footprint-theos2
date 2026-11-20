@@ -1,0 +1,16 @@
+# Tested on Google Colab (GPU). Colab already provides torch / torchvision / numpy -
+# do NOT reinstall them. The notebooks install these packages for you.
+terratorch
+huggingface_hub
+gdown
+rasterio
+geopandas
+shapely
+pyproj
+fiona
+scipy
+scikit-image
+scikit-learn
+pandas
+matplotlib
+tqdm
